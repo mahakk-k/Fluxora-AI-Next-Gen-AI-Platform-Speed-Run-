@@ -1,0 +1,15 @@
+:root {
+  --arctic-powder: #F1F6F4;
+  --mystic-mint: #D9E8E2;
+  --forsythia: #FFC801;
+  --deep-saffron: #FF9932;
+  --nocturnal-expedition: #114C5A;
+  --oceanic-noir: #172B36;
+
+  --duration-micro: 180ms;
+  --duration-structure: 360ms;
+  --duration-entry: 500ms;
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+}
